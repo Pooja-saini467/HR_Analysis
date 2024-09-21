@@ -15,5 +15,10 @@ In the initial data prepation phase, we performed the following task:
 2.Handling a missing values.
 3.Data cleaning and formatting.
 
+### Demo
+
+https://github.com/user-attachments/assets/7eeed2ce-3b61-43a1-9d56-54b5914a2622
+
+
 ### Learning
 Incorporated data analysis techniques, specializing in a time series analysis, to deliver valuble insights, accurate Hr forcasting, and interactive dashboard creation, driving business success.
